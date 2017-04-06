@@ -13,7 +13,7 @@ Methodological issues regarding the terrace extraction approach, also the determ
 - dissection with higher order streams
 - slopes should be similar in steepness between lowest and highest levels, because at upper elevations there is a higher elevation difference, but between lower levels the forms are not eroded, thus not smoothed; lowest levels also small value as the floods can still erode those
 
-![alt tag](https://github.com/edinaj0zs4/artificial-test-surface/edit/master/artifger_scene.png)
+!(https://github.com/edinaj0zs4/artificial-test-surface/edit/master/artifger_scene.png)
 
 ### Terrace levels
 | Level | Relative elevation |
