@@ -30,7 +30,7 @@ Methodological issues regarding the terrace extraction approach, also the determ
 | Top surface | 235-250 m |
 
 ### Characteristics of model
-- 10x4 km
+- 10x5 km
 - 104-350 m elevation
 - tilted to represent lowering river elevations from 105 to 100 m
 - 7 terrace levels + floodplain levels + flat top surface
