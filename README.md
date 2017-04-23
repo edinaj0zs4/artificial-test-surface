@@ -4,7 +4,7 @@ Semi-automated extraction of fluvial landforms from a coherent digital elevation
 Methodological issues regarding the terrace extraction approach, also the determination of optimal threshold values were explored by using an artificial hillslope model. The geomorphological applicability was tested on real topography along the terraced valley of the Hungarian section of the Danube.
 
 ## Description
-- Creating a digital elevation model to represent several methodological issues related to mapping terraced surfaces
+- creating a digital elevation model to represent several methodological issues related to mapping terraced surfaces
 - research question is also how to interpret height values of Pécsi M. (1959)
 - lower levels are flat, smaller elevation ranges, on histogram there is a clearly visible peak for the most represented height values
 - higher terrace levels are more dissected by stream valleys, covered by different sediments, thus a wider elevation range is expected, no clear peak on the histogram but  continuous height values with similar rate representing flat surfaces -> question is also the effect of neotectonics
